@@ -11,6 +11,7 @@ python3 pystman.py
 
 How to use:
 - Put the url (with the port) in the top bar, e.g. `ws://localhost:80`
+- If you're using HTTP Basic Access Auth, put the username and password into the next two text boxes.
 - Hit connect
 - While connected:
   - put in your input in the text box at the bottom

@@ -1,6 +1,6 @@
 # Pystman
 
-## A Python websocket client
+## A Python websocket test client with support for HTTP Basic Access Authentication
 
 How to set up:
 

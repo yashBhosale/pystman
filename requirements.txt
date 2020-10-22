@@ -1,0 +1,7 @@
+PyQt5
+PyQt5-sip
+PyQt5-stubs
+asyncio
+asyncqt
+websockets
+sip

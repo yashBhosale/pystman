@@ -18,7 +18,6 @@ How to use:
   - responses will show up in the text box above your input text box
   - To disconnect, hit disconnect. 
 
-Goals for this project
-- Move from PyQt to Kivy
+Goals for this project, if I have the motivation to do them.
 - automated testing
 - Http requests
